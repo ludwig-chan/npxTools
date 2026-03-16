@@ -1,0 +1,7 @@
+{
+  "name": "npx-tools",
+  "version": "1.0.0",
+  "bin": {
+    "zip-output": "bin/zip-output.js"
+  }
+}
